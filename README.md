@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<!--
+      <img src={bgPatternDesktop} className="bg-pattern" alt="bg-pattern" />
+      <img src={bgPatternMobile} className="bg-pattern" alt="bg-pattern" />
+      <img
+        src={illustrationBoxDesktop}
+        className="bg-pattern"
+        alt="bg-pattern"
+      />
+      <img
+        src={illustrationWomanOnlineDesktop}
+        className="bg-pattern"
+        alt="bg-pattern"
+      />
+
+import bgPatternDesktop from "./assets/images/bgPatternDesktop.svg";
+import bgPatternMobile from "./assets/images/bgPatternMobile.svg";
+import illustrationBoxDesktop from "./assets/images/illustrationBoxDesktop.svg";
+import illustrationWomanOnlineDesktop from "./assets/images/illustrationWomanOnlineDesktop.svg"; -->

@@ -1,0 +1,35 @@
+.question-answer__accordion {
+  width: 350px;
+  border-bottom: 1px solid #e8e8ea;
+}
+
+.answer {
+  display: block;
+  padding-bottom: 1.3rem;
+  color: hsl(240, 6%, 50%);
+}
+
+.title__question {
+  font-weight: 400;
+  font-size: 1.2rem;
+  color: hsl(237, 12%, 33%);
+  margin: 1.4rem 0rem;
+}
+
+.clicked-title__question {
+  font-weight: 600;
+}
+
+.question {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  cursor: pointer;
+  transition: 0.4s;
+}
+
+.icon-arrow-down {
+  height: 0.7rem;
+  width: 0.8rem;
+}
